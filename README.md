@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bercelius44!
 - 👀 I’m interested in IoT and web projects.
 - 🌱 I’m currently learning Django, Angular, .Net.
-- 💞️ I’m looking to collaborate on web APIs and exciting projects.
+- 💞️ I’m looking to collaborate on web APIs and excitings projects.
 - 📫 How to reach me? Email me bercelius44@gmail.com.
 
 <!---
